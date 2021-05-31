@@ -1,0 +1,3 @@
+[submodule "Assets/uCore-submodule"]
+	path = Assets/uCore-submodule
+	url = git@github.com:Huginn18/uCore-submodule.git
