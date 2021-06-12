@@ -28,4 +28,6 @@
 	<s:Boolean x:Key="/Default/CodeInspection/NamespaceProvider/NamespaceFoldersToSkip/=assets_005Cucore_002Dsubmodule_005Cscripts_005Cui_005Cviews_005Cmessages_005Cshowing_0020additive_0020view/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeInspection/NamespaceProvider/NamespaceFoldersToSkip/=assets_005Cucore_002Dsubmodule_005Cscripts_005Cui_005Cviews_005Cmessages_005Cview_0020hidden/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeInspection/NamespaceProvider/NamespaceFoldersToSkip/=assets_005Cucore_002Dsubmodule_005Cscripts_005Cui_005Cvista_0020system/@EntryIndexedValue">True</s:Boolean>
-	<s:Boolean x:Key="/Default/CodeInspection/NamespaceProvider/NamespaceFoldersToSkip/=assets_005Cucore_002Dsubmodule_005Cscripts_005Cui_005Cvista_0020system_005Cinterfaces/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
+	<s:Boolean x:Key="/Default/CodeInspection/NamespaceProvider/NamespaceFoldersToSkip/=assets_005Cucore_002Dsubmodule_005Cscripts_005Cui_005Cvista_0020system_005Cinterfaces/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeInspection/NamespaceProvider/NamespaceFoldersToSkip/=assets_005Cucore_002Dsubmodule_005Cscripts_005Cutils_005Cversioning/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeInspection/NamespaceProvider/NamespaceFoldersToSkip/=assets_005Cucore_002Dsubmodule_005Cscripts_005Cutils_005Cversioning_005Ceditor/@EntryIndexedValue">False</s:Boolean></wpf:ResourceDictionary>
